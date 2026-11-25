@@ -1,14 +1,14 @@
 Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="45px"> My name is Chris Barrood
 ======================================================================================================================================
 
-Technology, Product & Software Development
+Technology, Privacy & Software Development
 ------------------------------------------
 
-I'm a technology professional with a background in technical privacy auditing, quality assurance, and team leadership.
+I'm a technology professional with a background in technical privacy auditing, technical investigations, compliance, quality assurance, and team leadership.
 
-In 2020, I transitioned from real estate into technology, teaching myself Java before completing a QA automation bootcamp. I went on to spend 4.5 years supporting Meta's privacy auditing programs through Solvd, where I eventually led a team of 14 technical auditors. During that time, I worked cross-functionally with engineers, program managers, and other stakeholders to evaluate technical requirements, identify risks, and improve processes.
+In 2020, I transitioned from real estate into technology, teaching myself Java before completing a QA automation bootcamp. I went on to spend 4.5 years supporting Meta's privacy auditing programs through Solvd, where I eventually led a team of 14 technical auditors. During that time, I collaborated with globally distributed teams of engineers, program managers, and other stakeholders to investigate technical privacy risks, evaluate codebases and supporting evidence, verify remediation, and improve operational processes.
 
-I'm currently expanding my skills in software development, primarily working with JavaScript, React, HTML, and CSS. One of my ongoing projects is AssessmentRecord, an application I'm developing to streamline privacy auditing workflows and make technical assessments more intuitive.
+I'm currently expanding my skills in software development, primarily working with JavaScript, React, HTML, and CSS. One of my ongoing projects is AssessmentRecord, an application I'm developing to streamline privacy auditing workflows, support evidence evaluation, document compliance determinations, and track remediation.
 
 I'm passionate about understanding complex problems, creating thoughtful solutions, and building technology that makes people's lives easier.
 
